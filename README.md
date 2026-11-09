@@ -1,4 +1,4 @@
-Hi, I'm NumberInacave!<br>
+Hi, I'm numberinacave!<br>
 
 I enjoy programming, gamedev/design, graphic design, and I also sometimes do animation<br>
 You can also find me on
